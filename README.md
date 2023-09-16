@@ -1,1 +1,2 @@
-i am a alx student
+my first commit
+update from github.com
